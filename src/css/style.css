@@ -1,0 +1,32 @@
+body {
+  background: #d5d5d5;
+  font-family: arial;
+  color: #FAFAFA;
+  text-align: center;
+}
+
+.button {
+  border-radius: 4px;
+  background-color: #4CAF50;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+img {
+  width: 30%;
+}

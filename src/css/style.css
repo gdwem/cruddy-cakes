@@ -27,6 +27,16 @@ body {
   transition: 0.5s;
 }
 
+.add-cake-form form {
+  text-align: center;
+  width: 30%;
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #222;
+  border-radius: 0 0 20px 20px
+}
+
 img {
   width: 30%;
 }
